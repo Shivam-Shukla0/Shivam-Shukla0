@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shivam Shukla  
 
 🎓 **B.Tech in Computer Science** @ Shri Ramswaroop Memorial University, Lucknow  
-📚 **B.S. in Data Science** @ IIT Madras, Chennai  
 💻 Aspiring **Data Scientist** | **Full-Stack Developer** | **Cybersecurity Enthusiast**
 
 ---
