@@ -1,56 +1,21 @@
-# 👋 Hi, I'm Shivam Shukla  
+# 💫 About Me:
+👋 Hi there!<br><br>I’m a passionate Computer Science student who loves building practical projects, exploring new technologies, and constantly improving problem-solving skills. I enjoy working on real-world applications and learning by doing.<br><br>🚀 About Me<br><br>🔭 I’m currently working on<br><br>Web development projects using HTML, CSS, JavaScript & Flask<br><br>Data scraping, analysis, and visualization projects<br><br>DSA & problem-solving (LeetCode focused)<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects<br><br>Web apps, APIs, and data analysis projects<br><br>Beginner-friendly AI / ML projects<br><br>🤝 I’m looking for help with<br><br>Advanced DSA and system design concepts<br><br>Optimizing ML models and real-world deployment<br><br>Writing clean, scalable backend code<br><br>🌱 I’m currently learning<br><br>Advanced Data Structures & Algorithms<br><br>Machine Learning fundamentals<br><br>Backend development & APIs<br><br>Cybersecurity tools and concepts<br><br>💬 Ask me about<br><br>Python, C++, Flask<br><br>Web scraping & data analysis<br><br>Git, GitHub, and project structuring<br><br>College tech projects & exam prep strategies<br><br>⚡ Fun fact<br><br>I love breaking complex problems into simple logic and turning ideas into working code 🚀
 
-🎓 **B.Tech in Computer Science** @ Shri Ramswaroop Memorial University, Lucknow  
-💻 Aspiring **Data Scientist** | **Full-Stack Developer** | **Cybersecurity Enthusiast**
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_shuklajii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-shukla-) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Automatic-North6457) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27318284) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@itz_shuklajii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucifer84670@gmail.com) 
 
-## 🚀 About Me  
-- 🌱 Currently learning **Advanced Data Structures & Algorithms** and **MySQL**.  
-- 🔭 Working on exciting projects like **Job Trends Analyzer** and **Global Call Automation System**.  
-- 🛠 Skilled in **Python**, **C++**, **Flask**, **HTML/CSS/JS**, **Git**, and **cybersecurity tools**.  
-- 📫 Reach me at **lucifer84670@gmail.com** or [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shivam-shukla-26351b329/)).  
-- ⚡ Fun fact: I love building automation tools and analyzing real-world data.  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shivam-Shukla0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shivam-Shukla0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shukla0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Shivam-Shukla0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats  
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamShukla&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamShukla&layout=compact&theme=radical)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamShukla&theme=github-compact)  
-
----
-
-## 🌟 Featured Projects  
-
-### 📊 [Job Trends Analyzer](https://github.com/ShivamShukla/job-trends-analyzer)  
-A web-based dashboard to analyze job trends using scraped data.  
-**Tech Stack:** Python, Flask, Pandas, JavaScript, Chart.js  
-
-### 📞 [Global Call Automation System](https://github.com/ShivamShukla/global-call-automation)  
-Automates calls using Twilio and logs responses with a real-time Flask dashboard.  
-**Tech Stack:** Python, Twilio API, Flask, Google Sheets/CSV  
-
----
-
-## 🤝 Let's Connect  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shivam-shukla-26351b329/))  
-- ✉️ **lucifer84670@gmail.com**  
-- 🌐 [Portfolio](https://shivamshukla.github.io) *(optional: enable GitHub Pages)*  
-
----
-
-⭐️ *“Code, Learn, Build, Repeat – turning ideas into impactful projects!”*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
