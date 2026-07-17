@@ -65,7 +65,7 @@ INFO = [
     ("__section__", "~/reach", ""),
     ("Web",      "shivam-portfolio-next.vercel.app", "accent"),
     ("In",       "linkedin.com/in/shivam-shukla-", "accent"),
-    ("Mail",     "your-email@gmail.com", "accent"),
+    ("Mail",     "lucifer84670@gmail.com", "accent"),
 ]
 
 THEMES = {
