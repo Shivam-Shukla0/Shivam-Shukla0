@@ -126,7 +126,7 @@
 <text x="448" y="410.0" class="sec row" style="animation-delay:1.54s">~/highlights</text>
 <text x="448" y="427.5" class="key row" style="animation-delay:1.61s">Startup</text>
 <text x="540" y="427.5" class="val row" style="animation-delay:1.61s">Sitare Startup Program &#x27;26-27 · B2B cohort</text>
-<text x="448" y="445.0" class="row" style="animation-delay:1.68s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 18   ·   stars 1   ·   followers 2</tspan></text>
+<text x="448" y="445.0" class="row" style="animation-delay:1.68s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 18   ·   stars 1   ·   followers 1</tspan></text>
 <text x="448" y="472.5" class="sec row" style="animation-delay:1.75s">~/reach</text>
 <text x="448" y="490.0" class="key row" style="animation-delay:1.82s">Web</text>
 <text x="540" y="490.0" class="acc row" style="animation-delay:1.82s">shivam-portfolio-next.vercel.app</text>
@@ -135,5 +135,5 @@
 <text x="448" y="525.0" class="key row" style="animation-delay:1.96s">Mail</text>
 <text x="540" y="525.0" class="acc row" style="animation-delay:1.96s">lucifer84670@gmail.com</text>
 <text x="30" y="596" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to SDE / Full-Stack / AI Intern roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 19 Jul 2026, 11:42 IST</text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 20 Jul 2026, 12:00 IST</text>
 </svg>
