@@ -40,7 +40,7 @@ def load_portrait():
 INFO = [
     ("__header__", "shivam shukla", ""),
     ("__rule__", "", ""),
-    ("Role",     "Salesforce Developer · Student Founder", "val"),
+    ("Role",     "Full Stack Developer · Cybersecurity Enthusiast", "val"),
     ("Edu",      "B.Tech CSE, Sitare Univ · BS DS, IIT Madras '29", "val"),
     ("Focus",    "Full-Stack (MERN) · GenAI Apps · AI/ML", "accent"),
     ("__blank__", "", ""),
