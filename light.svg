@@ -97,7 +97,7 @@
 <text x="448" y="92.0" class="hdr row" style="animation-delay:0.35s">shivam shukla</text>
 <line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#d0d7de" class="row" style="animation-delay:0.42s"/>
 <text x="448" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
-<text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Salesforce Developer · Student Founder</text>
+<text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Full Stack Developer · Cybersecurity Enthusiast</text>
 <text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
 <text x="540" y="135.0" class="val row" style="animation-delay:0.56s">B.Tech CSE, Sitare Univ · BS DS, IIT Madras &#x27;29</text>
 <text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
@@ -135,5 +135,5 @@
 <text x="448" y="525.0" class="key row" style="animation-delay:1.96s">Mail</text>
 <text x="540" y="525.0" class="acc row" style="animation-delay:1.96s">lucifer84670@gmail.com</text>
 <text x="30" y="596" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to SDE / Full-Stack / AI Intern roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 22 Jul 2026, 11:39 IST</text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 22 Jul 2026, 22:11 IST</text>
 </svg>
